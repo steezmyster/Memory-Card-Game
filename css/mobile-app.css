@@ -17,7 +17,8 @@ body {
     max-height: 850px;
     max-width: 500px;
     justify-content: center;
-    padding: 5px;
+    padding: 0px;
+    padding-top: 10px;
 }
 
 body {
@@ -30,7 +31,6 @@ body {
     color: gray;
     height: 700px;
     width: 100%;
-    margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
