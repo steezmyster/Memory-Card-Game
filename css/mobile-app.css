@@ -62,15 +62,16 @@ h1 {
  }
 
 ul#deck > li {
-      padding: 10px;
-      height: 40px;
-      width: 40px;
+      padding: 5px;
+      height: 45px;
+      width: 45px;
       background: #2e3d49;
       font-size: 0;
       color: #ffffff;
       border-radius: 8px;
       cursor: pointer;
       display: flex;
+      flex-direction: row;
       justify-content: center;
       align-items: center;
       box-shadow: 5px 2px 20px 0 rgba(46, 61, 73, 0.5);
